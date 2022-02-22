@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "vite": "^2.8.0",
+    "vite-plugin-compression": "^0.5.1",
     "vite-plugin-webfont-dl": "^1.0.9"
   }
 }
