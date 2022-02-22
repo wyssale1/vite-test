@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.8.0"
+    "vite": "^2.8.0",
+    "vite-plugin-webfont-dl": "^1.0.9"
   }
 }
